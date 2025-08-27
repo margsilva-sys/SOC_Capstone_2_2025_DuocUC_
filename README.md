@@ -1,5 +1,5 @@
 Sistema de Administración SOC
-Proyecto para obtener Título de Ingeniería en Informática en Duoc UC 2025
+Proyecto de Título de Ingeniería en Informática en Duoc UC 2025
 Descripción del proyecto
 SOC es una plataforma digital creada para simplificar la gestión de condominios. Este sistema ayuda a organizar todos los aspectos de la administración de comunidades residenciales, incluyendo el personal, las finanzas, el mantenimiento, la cobranza y la comunicación con los residentes, mediante una interfaz fácil de usar.
 
