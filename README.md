@@ -1,9 +1,14 @@
 Sistema de Administración SOC
 Proyecto de Título de Ingeniería en Informática en Duoc UC 2025
-Descripción del proyecto
-SOC es una plataforma digital creada para simplificar la gestión de condominios. Este sistema ayuda a organizar todos los aspectos de la administración de comunidades residenciales, incluyendo el personal, las finanzas, el mantenimiento, la cobranza y la comunicación con los residentes, mediante una interfaz fácil de usar.
 
-El propósito central de este proyecto es hacer más rápida y eficiente la administración de condominios, ofreciendo una herramienta completa que funcione de manera confiable y segura. SOC se especializa en la organización efectiva de comunidades de vecinos, alineándose con los requerimientos actuales del sector inmobiliario marcados por la nueva legislación de copropiedad.
+Descripción del proyecto
+
+SOC es una plataforma digital creada para simplificar la gestión de condominios. Este sistema ayuda a organizar todos los aspectos de la administración de 
+comunidades residenciales, incluyendo el personal, las finanzas, el mantenimiento, la cobranza y la comunicación con los residentes, mediante una interfaz fácil de usar.
+
+El propósito central de este proyecto es hacer más rápida y eficiente la administración de condominios, ofreciendo una herramienta 
+completa que funcione de manera confiable y segura. SOC se especializa en la organización efectiva de comunidades de vecinos, alineándose con
+los requerimientos actuales del sector inmobiliario marcados por la nueva legislación de copropiedad.
 
 Características principales
 Reserva de áreas compartidas (salones, quinchos, piscinas)
