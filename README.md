@@ -13,20 +13,21 @@ los requerimientos actuales del sector inmobiliario marcados por la nueva legisl
 Características principales
 Reserva de áreas compartidas (salones, quinchos, piscinas)
 
-Control de paquetes y correspondencia
+-Control de paquetes y correspondencia
 
-Avisos automáticos sobre reservas de espacios
+-Avisos automáticos sobre reservas de espacios
 
-Cálculo automático de gastos comunes
+-Cálculo automático de gastos comunes
 
-Opciones de pago digital
+-Opciones de pago digital
 
-Administración del equipo de trabajo
+-Administración del equipo de trabajo
 
-Reportes económicos y de gestión
+-Reportes económicos y de gestión
 
 Forma de trabajo
-El proyecto se organizará mediante un enfoque por etapas, con ciclos de trabajo de 3 semanas para garantizar la entrega de una versión funcional del sistema durante el semestre.
+El proyecto se organizará mediante un enfoque por etapas, con ciclos de trabajo de 3 semanas para garantizar la entrega 
+de una versión funcional del sistema durante el semestre.
 
 Equipo del Proyecto
 Margarita Silva (Scrum Master /Desarrolladora)
@@ -34,6 +35,7 @@ Margarita Silva (Scrum Master /Desarrolladora)
 Israel Muñoz (Product Owner / Desarrollador)
 
 Herramientas tecnológicas
+
 Diseño de interfaz: Angular 18
 
 Sistema principal: .NET 8
