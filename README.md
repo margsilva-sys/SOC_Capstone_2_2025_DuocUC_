@@ -1,4 +1,4 @@
-Sistema de Administración SOC
+Sistema Operativo de condominios SOC
 Proyecto de Título de Ingeniería en Informática en Duoc UC 2025
 
 Descripción del proyecto
