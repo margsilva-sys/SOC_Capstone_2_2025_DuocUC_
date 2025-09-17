@@ -30,6 +30,7 @@ El proyecto se organizará mediante un enfoque por etapas, con ciclos de trabajo
 de una versión funcional del sistema durante el semestre.
 
 Equipo del Proyecto
+
 Margarita Silva (Scrum Master /Desarrolladora)
 
 Israel Muñoz (Product Owner / Desarrollador)
