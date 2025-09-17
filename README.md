@@ -29,7 +29,7 @@ Forma de trabajo
 El proyecto se organizará mediante un enfoque por etapas, con ciclos de trabajo de 3 semanas para garantizar la entrega 
 de una versión funcional del sistema durante el semestre.
 
-Equipo del Proyecto
+Integrantes del Proyecto
 
 Margarita Silva (Scrum Master /Desarrolladora)
 
